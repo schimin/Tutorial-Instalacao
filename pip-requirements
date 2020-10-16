@@ -44,7 +44,7 @@ phonenumbers==8.8.11
 
 # odoo-brasil
 suds-jurko-requests
-xmlsec
+#xmlsec
 
 # trustcode-addons
 boto3>=1.5.12
