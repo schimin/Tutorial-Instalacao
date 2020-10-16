@@ -39,7 +39,7 @@ Acompanhar este tutorial em vídeo:
 
 # 3º Passo - Baixar o código do Odoo
 
-* git clone https://github.com/odoo/odoo.git
+* git clone --branch 12.0 https://github.com/odoo/odoo.git
 
 # 4º Passo - Rodar o Odoo
 
