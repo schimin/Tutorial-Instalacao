@@ -6,7 +6,7 @@ libsasl2-dev
 libldap2-dev
 libpq-dev
 libjpeg-dev
-nodejs
+#nodejs
 npm
 
 # Ferramentas
@@ -17,7 +17,7 @@ locales
 supervisor
 
 ##### Dependências da Localização Brasileira #####
-libxmlsec1-dev
+#libxmlsec1-dev
 python-openssl
 python-cffi
 
